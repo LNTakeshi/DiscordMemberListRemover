@@ -1,1 +1,3 @@
 # DiscordMemberListRemover
+discordのメンバーリストからjsファイルに書かれた名前の人を消し去ります。
+BetterDiscordのインストールが必要です。BetterDiscord/pluginsに配置することで動作します。
